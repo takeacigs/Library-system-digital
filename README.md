@@ -1,5 +1,5 @@
 ================================================
-   README - SISTEM PERPUSTAKAAN DIGITAL
+   SISTEM PERPUSTAKAAN DIGITAL
    SistemPerpus.java
 ================================================
 
